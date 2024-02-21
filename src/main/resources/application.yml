@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: 'smtp.gmail.com'
+    port: 587
+    username: farkhodovalisher@gmail.com
+    password: bbckdtktgucnfrkz
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
